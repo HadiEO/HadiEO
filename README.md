@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HadiEO .
-- 👀 I’m interested in remote sensing, forest carbon, (geospatial) data science, cloud-native geo (Google Earth Engine, Microsoft Planetary Computer (Pangeo)), machine learning (ML), statistical inference, process-based models, and human-centric data-centric ML
+- 👀 I’m interested in remote sensing, scientific computing, forest carbon mapping, (geospatial) data science, cloud-native geo (Google Earth Engine, Microsoft Planetary Computer (Pangeo)), machine learning (ML), statistical inference, process-based models, and human-centric data-centric ML
 - 🌱 I’m currently learning cloud-native geospatial Python (Pangeo stack).
 - 💞️ I’m looking to collaborate on building tools, performing analysis and creating scientifically-defensible information and insights (e.g., web maps) to inform the MRV of nature-based solutions for climate change.
 - 📫 Reach me at https://twitter.com/HadiEOind , https://www.linkedin.com/in/hadicu90/ .
